@@ -22,7 +22,7 @@ The goal was not only to create a visually consistent interface, but to make the
 
 You can explore the interactive prototype:
 
-**[View interactive prototype](https://claude.ai/artifact/2345bb8e-f383-46e0-b70e-dba04c7c08c5)**
+**[View interactive prototype](https://claude.ai/artifact/5MdBzgqYKuejBXVW2gYCzg)**
 
 
 ---
